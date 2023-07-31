@@ -1,0 +1,85 @@
+{
+  "user": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "status": "active",
+      "tasks": [],
+      "login": "no",
+      "id": 2
+    },
+    {
+      "username": "jawad",
+      "email": "jawad@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "status": "active",
+      "tasks": [
+        {
+          "id": 1690783063619,
+          "taskText": "Do exercise for 2 hours everyday to be fit."
+        },
+        {
+          "id": 1690783106766,
+          "taskText": "Write 20 lines of code in any language you want."
+        },
+        {
+          "id": 1690783248587,
+          "taskText": "Learn new technologies for better future."
+        },
+        {
+          "id": 1690783285064,
+          "taskText": "Work on project that are assign to you."
+        }
+      ],
+      "login": "yes",
+      "id": 3
+    },
+    {
+      "username": "adnan",
+      "email": "adnan@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "status": "active",
+      "tasks": [
+        {
+          "id": 1690782944202,
+          "taskText": "Learn redux in this week."
+        },
+        {
+          "id": 1690783143917,
+          "taskText": "Go to gym 4/5 days a week."
+        }
+      ],
+      "login": "no",
+      "id": 4
+    },
+    {
+      "username": "ali",
+      "email": "ali@gmail.com",
+      "password": "1234567",
+      "confirmPassword": "1234567",
+      "status": "active",
+      "tasks": [
+        {
+          "id": 1690782961887,
+          "taskText": "Check all projects ."
+        }
+      ],
+      "login": "no",
+      "id": 5
+    },
+    {
+      "username": "usama",
+      "email": "usama@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "status": "active",
+      "tasks": [],
+      "login": "no",
+      "id": 6
+    }
+  ]
+}
